@@ -1,3 +1,4 @@
-Écrire une fonction qui vérifie si la valeur envoyée contient au moins une lettre de l'alphabet latin en majuscule ou en minuscule.
-Si la string envoyée est vide ou ne contient aucune lettre, retourner false.
-La valeur retournée sera boléenne (true, false)
+Écrivez une fonction Surprise qui prend une chaîne de caractères en paramètre et retourne true si cette chaîne contient au moins une lettre de l’alphabet latin (majuscule ou minuscule).
+Si la chaîne est vide ou ne contient aucune lettre, la fonction doit retourner false.
+La fonction principale doit utiliser la récursion pour parcourir la chaîne.
+Vous pouvez créer une autre fonction qui teste si un caractère est une lettre pour simplifier votre code. 
