@@ -1,0 +1,3 @@
+Écrire une fonction qui vérifie si la valeur envoyée contient au moins une lettre de l'alphabet latin en majuscule ou en minuscule.
+Si la string envoyée est vide ou ne contient aucune lettre, retourner false.
+La valeur retournée sera boléenne (true, false)
